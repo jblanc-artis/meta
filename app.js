@@ -10,6 +10,7 @@ window.addEventListener('scroll',()=>{
 
     }
     lastScrollTop = scrollTop
+    console.log('test hide');
 })
 
 // MENU BURGER
