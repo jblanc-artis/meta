@@ -197,3 +197,16 @@
         top: -35px;
         }
 }
+
+/* 780PX */
+@media (max-width : 780px){
+    .slider{
+        min-height: 110vh;
+    }
+}
+/* 450PX */
+@media (max-width : 450px){
+    .slider{
+        min-height: 115vh;
+    }
+}
