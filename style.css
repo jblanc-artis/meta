@@ -142,6 +142,9 @@ color: #FFAE47;
     width: min(651px,100%);
     font-size: clamp(18px,5vw,24px);
 }
+.imgMob{
+    display: none;
+}
 
 /* GAFAM */
 

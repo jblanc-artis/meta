@@ -209,4 +209,17 @@
     .slider{
         min-height: 115vh;
     }
+    .desktop , .bg-video video{
+        display: none;
+    }
+    .imgMob{
+        display: block;
+        margin-top: 20px;
+    }
+
+    .sfImg{
+        background: linear-gradient(165.6deg, rgba(17, 29, 52, 0.75) 0%, rgba(242, 67, 217, 0.75) 49.45%, rgba(77, 60, 136, 0.75) 107.9%), url(image.png);
+mix-blend-mode: normal;
+box-shadow: 0px 6px 23px rgba(242, 67, 217, 0.25);
+    }
 }
